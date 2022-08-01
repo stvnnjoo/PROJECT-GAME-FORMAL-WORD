@@ -1,0 +1,48 @@
+.text {
+    text-align: center;
+    padding-top: 200px;
+    font-size: 40px;
+    font-family: 'Sanchez';
+    color: rgb(249, 44, 44);
+    border: 0px solid black;
+    text-shadow: 5px 1px rgb(0, 0, 0);
+    
+   
+}
+.button {
+    margin: 20px 20px;
+    
+}
+.button a {
+    text-align: center;
+    border-radius: 50px;
+    font-size: 27px;
+    padding: 25px;
+    width: 36%;
+    margin: auto; 
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    box-shadow: 0 0 13px 4px rgb(0, 0, 0);
+    
+}
+
+a {
+    color: black;
+}
+
+.button a:hover {
+background-color: rgba(148, 148, 148, 0.967);
+}
+
+input {
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: 0;
+    text-align: center;
+ }
